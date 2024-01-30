@@ -6,8 +6,9 @@ My name is Brandon Diaz -- I am a Masters's Student at Pace University (NYC), en
   - My personal 'passion' project is an empirical analysis of success in baseball in relation to payroll size and advanced analytics.
 
   - I am also researching human capital dynamics in Ukraine, with a focus on post-war reconstruction. At the intersection of the UN's Sustainable Development 
-  Goals (SDGs) and a country's responsibility to adhere to these goals lie harsh and nuanced realities -- How does a country like Ukraine focus on immediate needs 
-  re: recovery whilst doing so in a sustainable manner? Is 'Building Back Greener' an appropriate goal under these conditions?
+    Goals (SDGs) and a country's responsibility to adhere to these goals lie harsh and nuanced realities -- This project aims to address questions like;
+    How does a country like Ukraine focus on immediate needs re: recovery whilst doing so in a sustainable manner? Is 'Building Back Greener' an appropriate goal 
+    under these conditions?
 
   
 - 🌱 I’m currently learning how to use R and Python in a more applied setting.
