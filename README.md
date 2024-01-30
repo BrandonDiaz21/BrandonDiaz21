@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello!
 
-<!--
-**BrandonDiaz21/BrandonDiaz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brandon Diaz -- I am a Masters's Student at Pace University (NYC), enrolled in the quantitative analysis program. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a few research projects --
+  - My personal 'passion' project is an empirical analysis of success in baseball in relation to payroll size and advanced analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - I am also researching human capital dynamics in Ukraine, with a focus on post-war reconstruction. At the intersection of the UN's Sustainable Development 
+  Goals (SDGs) and a country's responsibility to adhere to these goals lie harsh and nuanced realities -- How does a country like Ukraine focus on immediate needs 
+  re: recovery whilst doing so in a sustainable manner? Is 'Building Back Greener' an appropriate goal under these conditions?
+
+  
+- 🌱 I’m currently learning how to use R and Python in a more applied setting.
+- 📫 How to reach me: brandondiazofficial@gmail.com  ---- bd75362n@pace.edu
+
+- ⚡ Fun fact: I love to run! This year will (hopefully) conclude with 2 half-marathons, with the goal of running the NYC marathon in 2025.
+
